@@ -12,4 +12,5 @@
 ## Contacto
 - :email: [www.linkedin.com/in/mdotel]
 
-## - :rocket: *LEARNING!*
+##
+- :rocket: *LEARNING!*
