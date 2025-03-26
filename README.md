@@ -1,4 +1,4 @@
-# Mis proyectos en Python 👨‍💻
+# Mis proyectos en Python :computer:
 
 Estos serán mis primeros proyectos de Python, empezando con cosas muy básicas y esperando poder mejorar poco a poco.
 
