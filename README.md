@@ -2,10 +2,10 @@
 
 Estos serán mis primeros proyectos de Python, empezando con cosas muy básicas y esperando poder mejorar poco a poco.
 
-##
+## Proyectos Inicio
 - :rocket: *LEARNING!*
-- [Proyecto 1: Calculadora Basica](Calculadora.py)
-- [Proyecto 2: Calculo de Frases](Frases.py)
+- [Proyecto 1: Calculadora Básica](Calculadora.py)
+- [Proyecto 2: Cálculo de Palabras](Frases.py)
 
 
 ## Contacto
