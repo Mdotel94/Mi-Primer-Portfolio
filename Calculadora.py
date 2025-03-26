@@ -17,7 +17,7 @@ def division(a, b): #En la división contamos que entre 0 marque error porque no
 #Definimos lo que vamos a ver en pantalla tipo "menú"
 def calculadora():
     print("Calculadora básica")
-    print("Operaciones posibles: +, -, *, /")
+    print("Operaciones disponibles: +, -, *, /")
     
     num1 = float(input("Introduce un número: "))
     operacion = input("Introduce la operación (+, -, *, /): ")
