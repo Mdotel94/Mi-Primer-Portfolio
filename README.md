@@ -1,6 +1,6 @@
 # Mis proyectos en Python 👨‍💻
 
-¡Hola! Soy [MJ], una estudiante de desarrollo de aplicaciones multiplataforma. Estos serán mis primeros proyectos de Python.
+Estos serán mis primeros proyectos de Python.
 
 
 ## Contacto
