@@ -2,7 +2,7 @@
 
 Estos serán mis primeros proyectos de Python.
 
-- [Proyecto 1: Calculadora Basica] (Calculadora.py)
+- [Proyecto 1: Calculadora Basica] (Mi-Primer-Portfolio/Calculadora.py)
 
 
 ## Contacto
